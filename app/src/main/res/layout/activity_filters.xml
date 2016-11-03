@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="@color/colorPrimaryBackground"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context="com.sergeyloginov.sharpperfection.controller.FiltersActivity">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolbar"
+        android:layout_height="wrap_content"
+        android:layout_width="match_parent"
+        android:background="@color/colorPrimary"
+        android:elevation="@dimen/elevation"
+        app:titleTextAppearance="@style/ToolbarTitle"
+        app:titleTextColor="@android:color/white">
+    </android.support.v7.widget.Toolbar>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/filter_activity_list_item_height"
+        android:layout_marginTop="4dp"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_left_right"
+            android:layout_marginStart="@dimen/margin_left_right"
+            android:textSize="16sp"
+            android:textColor="@android:color/black"
+            android:text="@string/filters_favourite"/>
+
+        <android.support.v7.widget.SwitchCompat
+            android:id="@+id/sw_favourite"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="16dp"
+            android:layout_marginEnd="16dp"
+            android:checked="false"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/filter_activity_list_item_height"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_left_right"
+            android:layout_marginStart="@dimen/margin_left_right"
+            android:textSize="16sp"
+            android:textColor="@android:color/black"
+            android:text="@string/filters_by_date"/>
+
+        <android.support.v7.widget.SwitchCompat
+            android:id="@+id/sw_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="16dp"
+            android:layout_marginEnd="16dp"
+            android:checked="false"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/filter_activity_list_item_height"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/tv_from"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_left_right"
+            android:layout_marginStart="@dimen/margin_left_right"
+            android:textSize="16sp"
+            android:textColor="@color/disabled"
+            android:text="@string/filters_from"/>
+
+        <TextView
+            android:id="@+id/tv_date_from"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/margin_left_right"
+            android:layout_marginEnd="@dimen/margin_left_right"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:textSize="16sp"
+            android:textColor="@color/disabled"
+            tools:text="10.06.16"/>
+
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/filter_activity_list_item_height"
+        android:gravity="center_vertical">
+
+        <TextView
+            android:id="@+id/tv_by"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_left_right"
+            android:layout_marginStart="@dimen/margin_left_right"
+            android:textSize="16sp"
+            android:textColor="@color/disabled"
+            android:text="@string/filters_by"/>
+
+        <TextView
+            android:id="@+id/tv_date_by"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginRight="@dimen/margin_left_right"
+            android:layout_marginEnd="@dimen/margin_left_right"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:textSize="16sp"
+            android:textColor="@color/disabled"
+            tools:text="10.06.16"/>
+
+    </RelativeLayout>
+
+</LinearLayout>

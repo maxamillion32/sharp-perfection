@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "384492933529",
+    "firebase_url": "https://sharpperfection.firebaseio.com",
+    "project_id": "sharpperfection",
+    "storage_bucket": "sharpperfection.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:384492933529:android:bc16d58281c91b84",
+        "android_client_info": {
+          "package_name": "com.sergeyloginov.sharpperfection"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "384492933529-cu7h8q4ng5kiim76ko6m626nvhk68s34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJStkauEN6xXGwTucPxH5FVb2m7oFZxDU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

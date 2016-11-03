@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#333333</color>
+    <color name="colorPrimaryBackground">#fafafa</color>
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#111111</color>
+    <color name="colorAccentPressed">#000000</color>
+    <color name="colorRipple">#d6dacf</color>
+    <color name="disabled">#818181</color>
+    <color name="divider">#e2e2e2</color>
+</resources>

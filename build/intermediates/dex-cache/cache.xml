@@ -1,0 +1,797 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="C:\Workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.2.1_65df2b2d53d9cd6c1eb9df46f5ca9d88a670503c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.2.1_eac778e452a16f8de7b134ee9c1f3229118dda95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.0_d5516e9ff244781bcfb9fd9582637022842b6a48\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2506c5893e125e2f9cfc522378e893620c21b109">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.2.1_b086534386e14fb56e144f34e06eff472e631764\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="C:\Workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.2.1_0080cdcb29b82cb8fbffcfc328417586042dab8d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.2.1_6993f626766e1b17159f644136e29c1633d9ab90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_bf295b062dc25fb9a897e6642e1144e993fe3e89\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_81dce154662856fa1b0b2ae77568ed8a590b2b6f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2506c5893e125e2f9cfc522378e893620c21b109">
+        <dex dex="C:\Workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.2.1_3a107f8e97d0658b5df5e52ec8b33ec2769530da\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_74e16fbadb55ea582b3f1779b86cafce064e2bbb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.github.clans\fab\1.6.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1c3b9743fe8bb166a90a7e98b9b9f1f8021d80cd">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.clans-fab-1.6.4_22c6dd9d04fad87ebbcb169bf994462ccbf19ec8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_1199079ff8ba8365a46691ea3c9ad7b7efc24975\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_3f7ea9a84abcfd2435872dde2cb79f168a0b2a94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.2.1_eac778e452a16f8de7b134ee9c1f3229118dda95\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.2.1_bcb72f163a4704eca9a6bad1a08fdacbd4491c27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="05d2e01f33fb2097b51fce3f938dc37a75fe2d6b">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.2.1_f773a776553c44574a2b0eacf6bf11b5397a14ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.github.clans\fab\1.6.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1c3b9743fe8bb166a90a7e98b9b9f1f8021d80cd">
+        <dex dex="C:\Workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.clans-fab-1.6.4_cdd1153130f25540c4831977d92af4664bfd3740\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.2.1_9839c099ba24644fb14c4eff63dfcd28cb42c3d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.bignerdranch.android\expandablerecyclerview\2.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60430e47e1fb0be5502390f96a0a4c7f0b4fcb3e">
+        <dex dex="C:\Workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.bignerdranch.android-expandablerecyclerview-2.1.1_22d998c26ecde956dbec3b44d44271ef910edc97\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5ee48c2ac830bf6c04e0ea4780395b8f2347cfc0">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_db8d62ca47ddf2dacb34fdcd2eaa267a45df5807\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\Workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_ffc2ecf35afe14eccfe3890cee28fd49120e8d4d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05d2e01f33fb2097b51fce3f938dc37a75fe2d6b">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.2.1_f773a776553c44574a2b0eacf6bf11b5397a14ac\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.github.clans\fab\1.6.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1c3b9743fe8bb166a90a7e98b9b9f1f8021d80cd">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.clans-fab-1.6.4_22c6dd9d04fad87ebbcb169bf994462ccbf19ec8\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="ee409046028e5657a2a69edaa2eba00d6511a74c">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.2.1_c15347679ba4afecbe02b36b17152d4553821cc3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\login\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_d69ed2be328eb5175a94bf4a0630f417a629ed0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_3986f7b402450523ebef82e6333ea95a3e428423\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67230e5bc6bb9b210000d2b12246e03578b05a4a">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b3b40a251152264b5f75f772701bf2c8cc30c2bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_9bb17a95a44a260b3c41fbb8cbb0e34391dd9256\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_2686b4cc95e91664a532044af17bb91ebd170518\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_f5be1a35082dcabb003477f2230f474a501e8355\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee409046028e5657a2a69edaa2eba00d6511a74c">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.2.1_c15347679ba4afecbe02b36b17152d4553821cc3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.2.1_7fe2201f4fe0abb77f6a6d54bb929a2a997bd96d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.2.1_9839c099ba24644fb14c4eff63dfcd28cb42c3d3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_343c027ab3b3786103110155da17414b151500f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8bc45ce1f63d1a391fd38b32a201be5a42f9c95d">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-25.0.0_daecdf1924b26d58f082b92c2ee7096c85c45818\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="421b36cf4f0d3bbd75e8f28647fccf36674ef049">
+        <dex dex="C:\Workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.2.1_22834bde5a58d645df26bb8a304f8a5cf369298f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.2.1_3930debca5ede394ef045eb8da11b14cd1f68a1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="f06a0705d7b8b9d18b00d056fe0e07bec75514e6">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.2.1_7b91c6232e66bdc425249aa10d70b465af39b57e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_d6c9d70e162b1b8eb97b3fc32e4c13fec63f35ba\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2e3b9bc1ec25f652e8007ce7774c991e38f6a00">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_d68167abeb35acd0d8310e2bcc4b891408a25fed\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.0_021caa23bfe27e2c96fa57935656b04f3aacd894\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="35a01d7cb4ff6b5976777bf5827fd8f206fb8757">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.2.1_4225fd7ed8c48761c62dc7161fdf9b4fe9b2f47d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.bignerdranch.android\expandablerecyclerview\2.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="60430e47e1fb0be5502390f96a0a4c7f0b4fcb3e">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.bignerdranch.android-expandablerecyclerview-2.1.1_d12db0200446208c0f59d70cc68bcf86e34af2fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-database\0.4.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9d8076ffe6104c6ec66469d9301c5f7d030bd43">
+        <dex dex="C:\Workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.firebaseui-firebase-ui-database-0.4.2_922f9e4e0b025c0e50ee0adc62853225d822fd94\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d29714cc76b38157e3cbd034c66e1ec808eb4c19">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-vector-drawable-25.0.0_375abeeec53217decf79e3b1077b1bd35f857422\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_262b6474e8b3cbbdafd745b03b9c90ba2468e6b1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="1d43449cdb71221044687c39755a3452193c2ac4">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_b3b40a251152264b5f75f772701bf2c8cc30c2bf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_16af2a1168a2058641a15c11d0c883d330c034f7\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\login\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.4_c8bf4206caf76c5fa28a5cd416aebebb92855057\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="76fb65a4b41ea42dab8a1310ed772a2420c96b52">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-media-compat-25.0.0_26f3145020fb13ae735807d7cce269a97e6bfe85\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5ee48c2ac830bf6c04e0ea4780395b8f2347cfc0">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_db8d62ca47ddf2dacb34fdcd2eaa267a45df5807\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sharp-perfection\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a1dd0b8f30905c4d010949d71d2c5ae53fb25215">
+        <dex dex="C:\Workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_15010477e09afeff5ee615bf38474b6c1eef88c2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.2.1_7fe2201f4fe0abb77f6a6d54bb929a2a997bd96d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\Workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_dbae948cdb428f32590e82493308345509285aeb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26384be22ddc74cfe197ebda9edbc7d1fd8bd537">
+        <dex dex="C:\Workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-design-25.0.0_ec3f77937c9ead1f661b7ca2ca5c501550c61c5c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f06a0705d7b8b9d18b00d056fe0e07bec75514e6">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.2.1_7b91c6232e66bdc425249aa10d70b465af39b57e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.android.support\transition\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0c6d948e6cb9ea6f535d175fb61ba2930719c0e9">
+        <dex dex="C:\Workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-transition-25.0.0_1459f2a3943d0f868528d98d8f9381d07275c7db\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\Workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_bb13dd6752badf15edbc173bd7b8cb701830b5f2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="35a01d7cb4ff6b5976777bf5827fd8f206fb8757">
+        <dex dex="C:\Workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.2.1_eb712e30deae7ad89219db06ba266a3fe22ade43\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.2.1_3930debca5ede394ef045eb8da11b14cd1f68a1c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="35a01d7cb4ff6b5976777bf5827fd8f206fb8757">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.2.1_4225fd7ed8c48761c62dc7161fdf9b4fe9b2f47d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_08e16c369f66d4e80879794ef41d637b4d8edf9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.2.1_c1e839cf0d425570b549970e2e4270bcbb38772b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\login\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.4\695b63d702f505b9b916e02272e3b6381bade7f\gson-2.4.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0695b63d702f505b9b916e02272e3b6381bade7f">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\gson-2.4_c8bf4206caf76c5fa28a5cd416aebebb92855057\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e5343c9d19cb19ff55f6b268c7f3fe8c9d224f6f">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_c89abccea3cbd70d437bf7ee82a4b36b6ef2918e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_9b33e7df9a18f24f6199c7e645c39382d12eeacf\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="C:\Workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.2.1_b6456e7fd151ea0207a7309b4d9c07da63a12dcb\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="2506c5893e125e2f9cfc522378e893620c21b109">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.2.1_b086534386e14fb56e144f34e06eff472e631764\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="75b1f366ff0bbc78f8b1f7cf0dc82e7c53afef6a">
+        <dex dex="C:\Workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-compat-25.0.0_8012b53e47176da88493c59c7b2cea85a5b3f1dc\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5e497d60f0cb6ce87c458ac5420a46d0fed49bd0">
+        <dex dex="C:\Workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-recyclerview-v7-25.0.0_1f16bd7d6094b384edece56cc73b161668097b29\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee409046028e5657a2a69edaa2eba00d6511a74c">
+        <dex dex="C:\Workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.2.1_1d867b338cd45b1bd615b8310fb44111bfd42fea\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_e57fa7655c8d228e0bf87fdf8d6e4c3086922294\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sharp-perfection\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f19c0753dc9fc429238c2da3c80737424a8f5184">
+        <dex dex="C:\Workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_6f8622c832fa68cf53f377af64d719fc8bafe812\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-database\0.4.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="b9d8076ffe6104c6ec66469d9301c5f7d030bd43">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.firebaseui-firebase-ui-database-0.4.2_73cdc2a7e2abccbb04dfead0d3139e8f6e680d04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f06a0705d7b8b9d18b00d056fe0e07bec75514e6">
+        <dex dex="C:\Workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.2.1_844eb32ec02184048926a3c2b0e0cd3087b8652d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.bignerdranch.android\expandablerecyclerview\2.1.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="60430e47e1fb0be5502390f96a0a4c7f0b4fcb3e">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.bignerdranch.android-expandablerecyclerview-2.1.1_d12db0200446208c0f59d70cc68bcf86e34af2fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.2.1_bcb72f163a4704eca9a6bad1a08fdacbd4491c27\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="05d2e01f33fb2097b51fce3f938dc37a75fe2d6b">
+        <dex dex="C:\Workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.2.1_ce99da145f5d53117c53b1fcca180e18ee704fd4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-25.0.0_eefb56036039670edb997d4b21de54632307ec9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="C:\Workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.2.1_9fb6adbe73fd81f7a8405649d0c364386957ff24\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_bd9e0bbbc4a837a53b885f617b802c5561ad3a9b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.2.1_c1e839cf0d425570b549970e2e4270bcbb38772b\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.firebaseui\firebase-ui-database\0.4.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9d8076ffe6104c6ec66469d9301c5f7d030bd43">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.firebaseui-firebase-ui-database-0.4.2_73cdc2a7e2abccbb04dfead0d3139e8f6e680d04\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.3"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.2.1_6993f626766e1b17159f644136e29c1633d9ab90\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="C:\Workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.2.1_a5a14bbfa618d5306e6ca38fea58880c9aa0e8e4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\Workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_888492095af23e14be5527bf82b8977fc0f2159c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="C:\Workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.2.1_1ed496c9ea3aa7be76b39ab168ade37575963930\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Workspace\sp_android\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
+        <dex dex="C:\Workspace\sp_android\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_39383c36dcbe262830a0c7a233d2fe6f6194e8b5\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/rl_general"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:clickable="true"
+    android:background="@color/colorPrimaryBackground">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/exercise_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimary"
+        android:elevation="@dimen/elevation"
+        app:titleTextColor="@android:color/white">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageButton
+                android:id="@+id/ib_exercise_toolbar_icon"
+                android:src="@drawable/ic_check"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:contentDescription="@null"
+                style="@style/Widget.AppCompat.ActionButton"/>
+
+            <TextView
+                android:id="@+id/tv_exercise_toolbar_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/toolbar_title_margin"
+                android:layout_marginStart="@dimen/toolbar_title_margin"
+                tools:text="Exercise"
+                style="@style/ToolbarTitle"/>
+
+            <TextView
+                android:id="@+id/tv_exercise_toolbar_timer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_centerVertical="true"
+                android:layout_marginLeft="@dimen/toolbar_timer_margin"
+                android:layout_marginStart="@dimen/toolbar_timer_margin"
+                tools:text="00:00:00"
+                style="@style/ToolbarTitle"/>
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.Toolbar>
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/set_toolbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:background="@color/colorPrimary"
+        app:titleTextColor="@android:color/white">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <TextView
+                android:id="@+id/tv_set_toolbar_title"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/toolbar_title_margin"
+                android:layout_marginStart="@dimen/toolbar_title_margin"
+                tools:text="Set Duration"
+                style="@style/ToolbarTitle"/>
+
+            <TextView
+                android:id="@+id/tv_set_toolbar_timer"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginLeft="@dimen/toolbar_timer_margin"
+                android:layout_marginStart="@dimen/toolbar_timer_margin"
+                tools:text="00:00:00"
+                style="@style/ToolbarTitle"/>
+
+        </RelativeLayout>
+
+    </android.support.v7.widget.Toolbar>
+
+    <android.support.v7.widget.RecyclerView
+        android:id="@+id/rv"
+        android:layout_below="@id/exercise_toolbar"
+        android:layout_width="match_parent"
+        android:layout_above="@id/set_toolbar"
+        android:layout_height="wrap_content">
+    </android.support.v7.widget.RecyclerView>
+
+    <com.github.clans.fab.FloatingActionButton
+        android:id="@+id/fab"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_add"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:layout_alignParentRight="true"
+        android:layout_marginEnd="@dimen/fab_margin_left_right_bottom"
+        android:layout_marginRight="@dimen/fab_margin_left_right_bottom"
+        android:layout_marginBottom="@dimen/fab_start_ex_fragment_margin_bottom"
+        app:fab_colorNormal="@color/colorAccent"
+        app:fab_colorPressed="@color/colorAccentPressed"
+        app:fab_colorRipple="@color/colorRipple"
+        app:fab_size="mini"/>
+
+</RelativeLayout>
+
+
+

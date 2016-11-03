@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/rl_input"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:gravity="center_horizontal">
+
+    <NumberPicker
+        android:id="@+id/np_hundreds"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layerType="hardware">
+    </NumberPicker>
+
+    <NumberPicker
+        android:id="@+id/np_dozens"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@id/np_hundreds"
+        android:layout_toRightOf="@id/np_hundreds"
+        android:layerType="hardware">
+    </NumberPicker>
+
+    <TextView
+        android:id="@+id/tv_hundredths"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/title_text_size"
+        android:text="@string/dot"
+        android:layout_toEndOf="@id/np_dozens"
+        android:layout_toRightOf="@id/np_dozens"
+        android:layout_marginLeft="@dimen/number_picker_margin"
+        android:layout_marginRight="@dimen/number_picker_margin"
+        android:layout_centerVertical="true" />
+
+    <NumberPicker
+        android:id="@+id/np_hundredths"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@id/tv_hundredths"
+        android:layout_toRightOf="@id/tv_hundredths"
+        android:layerType="hardware">
+    </NumberPicker>
+
+    <TextView
+        android:id="@+id/tv_reps"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="@dimen/title_text_size"
+        android:text="@string/x"
+        android:layout_marginLeft="@dimen/number_picker_margin"
+        android:layout_marginRight="@dimen/number_picker_margin"
+        android:layout_centerVertical="true"
+        android:layout_toRightOf="@id/np_hundredths"
+        android:layout_toEndOf="@id/np_hundredths"/>
+
+    <NumberPicker
+        android:id="@+id/np_reps"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_toEndOf="@id/tv_reps"
+        android:layout_toRightOf="@id/tv_reps"
+        android:layerType="hardware">
+    </NumberPicker>
+
+</RelativeLayout>

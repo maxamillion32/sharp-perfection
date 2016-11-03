@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/choose_ex_fragment_list_item_height"
+    android:foreground="?attr/selectableItemBackground"
+    android:clickable="true">
+
+    <View
+        android:id="@+id/top_divider"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/divider_height"
+        android:background="@color/divider"
+        android:visibility="invisible"
+        android:layout_marginLeft="@dimen/margin_left_right"
+        android:layout_marginRight="@dimen/margin_left_right"/>
+
+    <TextView
+        android:id="@+id/tv_group_title"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/choose_ex_fragment_list_item_context_height"
+        android:textColor="@android:color/black"
+        android:textSize="@dimen/context_text_size"
+        android:gravity="center_vertical"
+        android:alpha="@dimen/alpha"
+        android:layout_marginLeft="@dimen/margin_left_right"
+        android:layout_marginStart="@dimen/margin_left_right"
+        tools:text="Biceps"/>
+
+    <ImageView
+        android:id="@+id/iv_expand"
+        android:src="@drawable/ic_down"
+        android:layout_width="wrap_content"
+        android:layout_height="@dimen/choose_ex_fragment_list_item_context_height"
+        android:tag="collapsed"
+        android:alpha="@dimen/alpha"
+        android:layout_gravity="end"
+        android:layout_marginRight="@dimen/margin_left_right"
+        android:layout_marginEnd="@dimen/margin_left_right"
+        android:contentDescription="@null"/>
+
+</FrameLayout>

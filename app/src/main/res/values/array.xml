@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="groups">
+        <item>Biceps</item>
+        <item>Triceps</item>
+        <item>Shoulders</item>
+        <item>Chest</item>
+        <item>Back</item>
+        <item>Legs</item>
+        <item>Buttocks</item>
+        <item>Abdomen</item>
+    </string-array>
+
+    <string-array name="biceps">
+        <item>Curls</item>
+        <item>Concentration Curls</item>
+        <item>Hammer Curls</item>
+        <item>Low Pulley Curls</item>
+        <item>High Pulley Curls</item>
+        <item>Barbell Curls</item>
+        <item>Machine Curls</item>
+        <item>Preacher Curls</item>
+        <item>Reverse Curls</item>
+    </string-array>
+
+    <string-array name="triceps">
+        <item>Push-downs</item>
+        <item>Reverse Push-downs</item>
+        <item>One-Arm Reverse Push-downs</item>
+        <item>Triceps Extensions</item>
+        <item>Dumbbell Triceps Extensions</item>
+        <item>One-Arm Dumbbell Triceps Extensions</item>
+        <item>Seated Dumbbell Triceps Extensions</item>
+        <item>Seated Ez-Bar Triceps Extensions</item>
+        <item>Triceps Kickbacks</item>
+        <item>Triceps Dips</item>
+    </string-array>
+
+    <string-array name="shoulders">
+        <item>Back Press</item>
+        <item>Front Press</item>
+        <item>Dumbbell Press</item>
+        <item>One-Arm Dumbbell Press</item>
+        <item>Lateral Raises</item>
+        <item>Bent-Over Lateral Raises</item>
+        <item>Front Raises</item>
+        <item>Side-Lying Lateral Raises</item>
+        <item>Low-Pulley Lateral Raises</item>
+        <item>Low-Pulley Front Raises</item>
+        <item>Low-Pulley Bent-Over Lateral Raises</item>
+        <item>One-Dumbbell Front Raises</item>
+        <item>Barbell Front Raises</item>
+        <item>Upright Rows</item>
+        <item>Nautilus Lateral Raises</item>
+        <item>Pec Deck Rear Delt Laterals</item>
+    </string-array>
+
+    <string-array name="chest">
+        <item>Bench Press</item>
+        <item>Close-Grip Bench Press</item>
+        <item>Incline Press</item>
+        <item>Decline Press</item>
+        <item>Push-Ups</item>
+        <item>Parallel Bar Digs</item>
+        <item>Dumbbell Press</item>
+        <item>Dumbbell Flys</item>
+        <item>Incline Dumbbell Press</item>
+        <item>Incline Dumbbell Flys</item>
+        <item>Pec Deck Flys</item>
+        <item>Cable Crossover Flys</item>
+        <item>Dumbbell Pullovers</item>
+        <item>Barbell Pullovers</item>
+    </string-array>
+
+    <string-array name="back">
+        <item>Chin-Ups</item>
+        <item>Reverse Chin-Ups</item>
+        <item>Lat Pulldowns</item>
+        <item>Back Lat Pulldowns</item>
+        <item>Close-Grip Lat Pulldowns</item>
+        <item>Straight-Arm Lat Pulldowns</item>
+        <item>Seated Rows</item>
+        <item>One-Arm Dumbbell Rows</item>
+        <item>Bent Rows</item>
+        <item>T-Bar Rows</item>
+        <item>Stiff-Legged Deadlist</item>
+        <item>Deadlifts</item>
+        <item>Sumo Deadlifts</item>
+        <item>Back Extension</item>
+        <item>Upright Rows</item>
+        <item>Barbell Shrugs</item>
+        <item>Dumbbell Shrugs</item>
+        <item>Machine Shrugs</item>
+    </string-array>
+
+    <string-array name="legs">
+        <item>Dumbbell Squats</item>
+        <item>Squats</item>
+        <item>Front Squats</item>
+        <item>Power Squats</item>
+        <item>Angled Leg Press</item>
+        <item>Hack Squats</item>
+        <item>Leg Extensions</item>
+        <item>Lying Leg Curls</item>
+        <item>Standing Leg Curls</item>
+        <item>Seated Leg Curls</item>
+        <item>Good Mornings</item>
+        <item>Cable Adductions</item>
+        <item>Machine Adductions</item>
+        <item>Standing Calf Raises</item>
+        <item>One-Leg Toe Raises</item>
+        <item>Donkey Calf Raises</item>
+        <item>Seated Calf Raises</item>
+        <item>Seated Barbell Calf Raises</item>
+    </string-array>
+
+    <string-array name="buttocks">
+        <item>Lunges</item>
+        <item>Cable Back Kicks</item>
+        <item>Machine Hip Extensions</item>
+        <item>Floor Hip Extensions</item>
+        <item>Bridging</item>
+        <item>Cable Hip Abductions</item>
+        <item>Standing Machine Hip Abductions</item>
+        <item>Floor Hip Abductions</item>
+        <item>Seated Machine Hip Abductions</item>
+    </string-array>
+
+    <string-array name="abdomen">
+        <item>Crunches</item>
+        <item>Sit-Ups</item>
+        <item>Gym Ladder Sit-Ups</item>
+        <item>Calves Over Bench Sit-Ups</item>
+        <item>Incline Bench Sit-Ups</item>
+        <item>Specific Bench Sit-Ups</item>
+        <item>High Pulley Crunches</item>
+        <item>Machine Crunches</item>
+        <item>Incline Leg Raises</item>
+        <item>Leg Raises</item>
+        <item>Hanging Leg Raises</item>
+        <item>Broomstick Twists</item>
+        <item>Dumbbell Side Bends</item>
+        <item>Roman Chair Side Bends</item>
+        <item>Machine Trunk Rotations</item>
+    </string-array>
+</resources>

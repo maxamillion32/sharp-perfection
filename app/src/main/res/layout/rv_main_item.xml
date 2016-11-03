@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:id="@+id/fl_main"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/main_fragment_list_item_height"
+    android:foreground="?attr/selectableItemBackground"
+    android:layout_marginTop="@dimen/divider_height"
+    android:clickable="true">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/main_fragment_list_item_height">
+
+        <ImageView
+            android:id="@+id/iv_weekday"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/margin_left_right"
+            android:layout_marginStart="@dimen/margin_left_right"
+            android:layout_marginTop="@dimen/margin_left_right"
+            android:layout_marginRight="@dimen/margin_left_right"
+            android:layout_marginEnd="@dimen/margin_left_right"
+            android:contentDescription="@null"/>
+
+        <TextView
+            android:id="@+id/tv_weekday"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/iv_weekday"
+            android:layout_toEndOf="@id/iv_weekday"
+            android:layout_marginTop="@dimen/main_fragment_list_item_weekday_margin_top"
+            android:textColor="@android:color/black"
+            android:textSize="@dimen/context_text_size"
+            android:textStyle="bold"
+            tools:text="Monday"/>
+
+        <ImageButton
+            android:id="@+id/ib_star"
+            android:src="@drawable/ic_star"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:layout_marginRight="@dimen/margin_left_right"
+            android:layout_marginEnd="@dimen/margin_left_right"
+            android:layout_marginBottom="@dimen/main_fragment_list_item_margin_top"
+            android:background="@color/colorPrimaryBackground"
+            android:contentDescription="@null" />
+
+        <TextView
+            android:id="@+id/tv_muscle_groups"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/iv_weekday"
+            android:layout_toEndOf="@id/iv_weekday"
+            android:layout_toLeftOf="@id/ib_star"
+            android:layout_toStartOf="@id/ib_star"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:layout_below="@id/tv_weekday"
+            android:textSize="@dimen/context_text_size_small"
+            android:textColor="@android:color/black"
+            tools:text="Muscle Groups: Biceps"/>
+
+        <TextView
+            android:id="@+id/tv_duration"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_toRightOf="@id/iv_weekday"
+            android:layout_toEndOf="@id/iv_weekday"
+            android:layout_toLeftOf="@id/ib_star"
+            android:layout_toStartOf="@id/ib_star"
+            android:maxLines="1"
+            android:ellipsize="end"
+            android:layout_below="@id/tv_muscle_groups"
+            android:textSize="@dimen/context_text_size_small"
+            android:textColor="@android:color/black"
+            tools:text="Start Time: 09:00 Finish Time: 10:00"/>
+
+        <TextView
+            android:id="@+id/tv_date"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentEnd="true"
+            android:textSize="@dimen/context_text_size_smallest"
+            android:textColor="@android:color/black"
+            android:layout_marginRight="@dimen/margin_left_right"
+            android:layout_marginEnd="@dimen/margin_left_right"
+            android:layout_marginTop="@dimen/main_fragment_list_item_weekday_margin_top"
+            tools:text="4 apr"/>
+
+    </RelativeLayout>
+
+</FrameLayout>
