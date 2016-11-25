@@ -1,5 +1,5 @@
-# Sharp Perfection
-Android application for tracking progress in the gym with Firebase sync feature
+# Sharp Perfection 1.0
+Android application for tracking progress in the gym with Firebase sync feature. [Download apk](/app/app-release.apk)
 
 # Screenshots
 <img src="/screenshots/00_sign_in.jpg?raw=true" alt="alt text" width="199" height="400">
@@ -12,6 +12,7 @@ Android application for tracking progress in the gym with Firebase sync feature
 <img src="/screenshots/08_accept_set.jpg?raw=true" alt="alt text" width="199" height="400">
 
 # License
+```
 Copyright (c) 2016 Sergey Loginov
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
@@ -31,6 +32,6 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
+```
 
 
