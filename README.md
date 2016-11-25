@@ -1,15 +1,11 @@
-# Sharp Perfection 1.0
+# Sharp Perfection
 Android application for tracking progress in the gym with Firebase sync feature. [Download apk](/app/app-release.apk)
 
 # Screenshots
-<img src="/screenshots/00_sign_in.jpg?raw=true" alt="alt text" width="199" height="400">
-<img src="/screenshots/02_main.jpg?raw=true" alt="alt text" width="199" height="400">
-<img src="/screenshots/03_filters.jpg?raw=true" alt="alt text" width="199" height="400">
-<img src="/screenshots/04_view.jpg?raw=true" alt="alt text" width="199" height="400">
-<img src="/screenshots/05_choose_exercise.jpg?raw=true" alt="alt text" width="199" height="400">
-<img src="/screenshots/06_start_set.jpg?raw=true" alt="alt text" width="199" height="400">
-<img src="/screenshots/07_finish_set.jpg?raw=true" alt="alt text" width="199" height="400">
-<img src="/screenshots/08_accept_set.jpg?raw=true" alt="alt text" width="199" height="400">
+<img src="/screenshots/01.png?raw=true" alt="alt text" width="199" height="400">
+<img src="/screenshots/02.png?raw=true" alt="alt text" width="199" height="400">
+<img src="/screenshots/03.png?raw=true" alt="alt text" width="199" height="400">
+<img src="/screenshots/04.png?raw=true" alt="alt text" width="199" height="400">
 
 # License
 ```
