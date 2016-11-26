@@ -6,6 +6,8 @@ Android application for tracking progress in the gym with Firebase sync feature.
 <img src="/screenshots/02.png?raw=true" alt="alt text" width="225" height="400">
 <img src="/screenshots/03.png?raw=true" alt="alt text" width="225" height="400">
 <img src="/screenshots/04.png?raw=true" alt="alt text" width="225" height="400">
+<img src="/screenshots/05.png?raw=true" alt="alt text" width="225" height="400">
+<img src="/screenshots/06.png?raw=true" alt="alt text" width="225" height="400">
 
 # License
 ```
