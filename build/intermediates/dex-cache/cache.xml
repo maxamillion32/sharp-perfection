@@ -3,6 +3,33 @@
 
     <item
         is-multidex="true"
+        jar="C:\workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="C:\workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.2.1_65de8d3a4e02e696fcf9be4dc3776163fe81b1e3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="C:\workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.2.1_be3f57010a5f634fa385bc331c4249bd544be0ee\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2506c5893e125e2f9cfc522378e893620c21b109">
+        <dex dex="C:\workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.2.1_360e3e68e7f4a0156a74ae759fa33c57cc7ba270\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
         jumboMode="true"
         optimize="true"
@@ -12,12 +39,48 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.github.clans\fab\1.6.4\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1c3b9743fe8bb166a90a7e98b9b9f1f8021d80cd">
+        <dex dex="C:\workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.clans-fab-1.6.4_8aa50cc01f208caee90213e6a64ff0128b5fd212\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.bignerdranch.android\expandablerecyclerview\2.1.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="60430e47e1fb0be5502390f96a0a4c7f0b4fcb3e">
         <dex dex="C:\workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.bignerdranch.android-expandablerecyclerview-2.1.1_876f61a3e1cc04bfa1ba9b03a67600b33a329e35\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
+        <dex dex="C:\workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_34f9ab362be850409a6a110aab9b1586ebef31f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\login\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
+        <dex dex="C:\workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_d69ed2be328eb5175a94bf4a0630f417a629ed0c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
+        <dex dex="C:\workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_530f4dc5c23baa1341dfed1c56d5e6d01c4fe381\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -75,6 +138,24 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\workspace\sharp-perfection\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f2159c9906badc4fe4626f1cf67ba591e770a2be">
+        <dex dex="C:\workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2e675ab0d5b7a62b4eff600c87da818b2573cb7d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
+        <dex dex="C:\workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_31662c646e34c335d79ffbd9e6499deb784a6718\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.android.support\design\25.0.0\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -93,12 +174,30 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="26674000177e45447a0326a6ad84612761199a13">
+        <dex dex="C:\workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_53afe3f9d22461b2f39fd6f70d9db71222e0f442\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="35a01d7cb4ff6b5976777bf5827fd8f206fb8757">
         <dex dex="C:\workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.2.1_f3da1394da450a864806d72f8b8aa222173b23e1\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
+        <dex dex="C:\workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_beed9b368829e6ef27d6f75d7a1ee8822b9f62b8\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -117,6 +216,15 @@
         revision="25.0.0"
         sha1="4ccbcda5c72027c7f7c14be9ff8640d9cb0d8da0">
         <dex dex="C:\workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-utils-25.0.0_156318c2649cf1623fe3e6347401833b90b1f5c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="C:\workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.2.1_47985255950e61443954453d6204146da798dede\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -147,6 +255,15 @@
     </item>
     <item
         is-multidex="true"
+        jar="C:\workspace\sharp-perfection\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="feca4bc74a9a0dd899775eeb286280048f77e098">
+        <dex dex="C:\workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9cfd4aae25d4c9bbf8e0284df64370327fcfb045\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
         jar="C:\workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.2.1\jars\classes.jar"
         jumboMode="true"
         optimize="true"
@@ -162,141 +279,6 @@
         revision="25.0.0"
         sha1="05d2e01f33fb2097b51fce3f938dc37a75fe2d6b">
         <dex dex="C:\workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.2.1_9f6da684d47dc5f58d388a659d67f02a2b4b7c80\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
-        <dex dex="C:\workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_aa9e0e692ffe3d593532f48a802e89067f677c9f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
-        <dex dex="C:\workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.2.1_0b2906e2c349f18e0ead2be8e2bdb30ccb1808ea\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
-        <dex dex="C:\workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.2.1_65de8d3a4e02e696fcf9be4dc3776163fe81b1e3\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
-        <dex dex="C:\workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.2.1_be3f57010a5f634fa385bc331c4249bd544be0ee\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="2506c5893e125e2f9cfc522378e893620c21b109">
-        <dex dex="C:\workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.2.1_360e3e68e7f4a0156a74ae759fa33c57cc7ba270\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.github.clans\fab\1.6.4\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="1c3b9743fe8bb166a90a7e98b9b9f1f8021d80cd">
-        <dex dex="C:\workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.github.clans-fab-1.6.4_8aa50cc01f208caee90213e6a64ff0128b5fd212\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3b61a70884adaf0be3fc06c70c801e3e6df13133">
-        <dex dex="C:\workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_34f9ab362be850409a6a110aab9b1586ebef31f4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\login\AppData\Local\Android\android-sdk\extras\android\m2repository\com\android\support\support-annotations\25.0.0\support-annotations-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="a22d2cc94da87b254451fa8ed28afc30b4653773">
-        <dex dex="C:\workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-25.0.0_d69ed2be328eb5175a94bf4a0630f417a629ed0c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="53a420cd4f49274db6bd43475f8006ba67ef6bbd">
-        <dex dex="C:\workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-animated-vector-drawable-25.0.0_530f4dc5c23baa1341dfed1c56d5e6d01c4fe381\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\workspace\sharp-perfection\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="9e2bc227b06d4858a96cc6a327a860b516d4b8ab">
-        <dex dex="C:\workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_2e675ab0d5b7a62b4eff600c87da818b2573cb7d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="07daa0b6e1d455c82a38422ffe287c18823d339a">
-        <dex dex="C:\workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-fragment-25.0.0_31662c646e34c335d79ffbd9e6499deb784a6718\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.0.0\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="26674000177e45447a0326a6ad84612761199a13">
-        <dex dex="C:\workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-core-ui-25.0.0_53afe3f9d22461b2f39fd6f70d9db71222e0f442\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.0.0\jars\libs\internal_impl-25.0.0.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="ee5faf4dee5b6a4364bf51587871047dde7c703a">
-        <dex dex="C:\workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_beed9b368829e6ef27d6f75d7a1ee8822b9f62b8\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.2.1\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
-        <dex dex="C:\workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.2.1_47985255950e61443954453d6204146da798dede\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\workspace\sharp-perfection\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.0"
-        sha1="0e6ee0c01b53d696a5cdf39a35082cd402fe7f3b">
-        <dex dex="C:\workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_9cfd4aae25d4c9bbf8e0284df64370327fcfb045\classes.dex" />
     </item>
     <item
         is-multidex="true"
@@ -324,6 +306,24 @@
         revision="25.0.0"
         sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
         <dex dex="C:\workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.2.1_2e94d748257eaa6f9ac97b1157e6f311d9972209\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.0.0\jars\libs\internal_impl-25.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="665d21a8a069c96b4d9e8b434f5096d865b4e261">
+        <dex dex="C:\workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-25.0.0_aa9e0e692ffe3d593532f48a802e89067f677c9f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\workspace\sharp-perfection\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.2.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="C:\workspace\sharp-perfection\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.2.1_0b2906e2c349f18e0ead2be8e2bdb30ccb1808ea\classes.dex" />
     </item>
 
 </items>
